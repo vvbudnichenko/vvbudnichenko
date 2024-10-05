@@ -11,7 +11,7 @@
 -----------------
 <b>Core technologies:</b>
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
-![Maven]([https://img.shields.io/badge/Apache-Maven-yellow](https://img.shields.io/badge/Apache%20Maven-blue)
+![Maven](https://img.shields.io/badge/Apache%20Maven-blue)
 ![JUnit](https://img.shields.io/badge/JUnit-violet)
 ![AssertJ](https://img.shields.io/badge/AssertJ-red)
 
