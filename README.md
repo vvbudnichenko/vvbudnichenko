@@ -4,11 +4,13 @@
 - I learn Python, JavaScript and Microsift Azure at Metropolia AMK [Metropolia](https://www.metropolia.fi/en/academics/open-university-courses/nonstop-virtual-studies-information-and-communication-technology)
 - I graduated with honors as an engineer from a university in Saint Petersburg.
 - I have one and a half years of experience in Java ⌚
+
+- ![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvbudnichenko&layout=compact)](https://github.com/ShamRail/github-readme-stats)
 <!--
 **vvbudnichenko/vvbudnichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShamRail&layout=compact)](https://github.com/ShamRail/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
