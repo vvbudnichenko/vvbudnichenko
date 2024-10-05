@@ -1,31 +1,28 @@
-## Hi! My name is Vladimir! 💻🧠⚙️🚀💡🔧🎯🔥🌐 :v:
+# Hi! I'm Vladimir! 💻🧠⚙️🚀💡🔧🎯🔥🌐 :v:
 
-### Some about me
-
-- I am 36 years old, living and working in Finland.
-- I learn Java at [Job4j](https://job4j.ru/) ☕
-- I learn Python, JavaScript and Microsift Azure at Metropolia AMK [Metropolia](https://www.metropolia.fi/en/academics/open-university-courses/nonstop-virtual-studies-information-and-communication-technology)
-- I graduated with honors as an engineer from a university in Saint Petersburg.
-- I have one and a half years of experience in Java ⌚
-
------------------
-<b>Core technologies:</b>
+## 👨‍💻 About Me
+- 🇫🇮 Living and working in Finland.
+- 🎓 Graduated with honors as an engineer from a university in Saint Petersburg.
+- 💼 1.5 years of experience in **Java** development ⌚.
+- 🏫 Learning **Java** at [Job4j](https://job4j.ru/) ☕.
+- 📚 Studying **Python**, **JavaScript**, and **Microsoft Azure** at [Metropolia](https://www.metropolia.fi/en/academics/open-university-courses/nonstop-virtual-studies-information-and-communication-technology) AMK.
+  
+## 🚀 Core Technologies
 ![Java](https://img.shields.io/badge/Java-%3E%3D8-orange)
 ![Maven](https://img.shields.io/badge/Apache%20Maven-blue)
 ![JUnit](https://img.shields.io/badge/JUnit-violet)
 ![AssertJ](https://img.shields.io/badge/AssertJ-red)
 
-#### Here is my study projects:
-##### Lessons of:
-1. [Java SE](https://github.com/vvbudnichenko/job4j_elementary)
-2. [Java Core](https://github.com/vvbudnichenko/job4j_tracker)
-### Statistics
-- ![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)
+## 🎯 Projects
+- [**Java SE Lessons**](https://github.com/vvbudnichenko/job4j_elementary) 
+- [**Java Core Lessons**](https://github.com/vvbudnichenko/job4j_tracker)
+
+## 📊 Stats
+![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvbudnichenko&layout=compact)](https://github.com/ShamRail/github-readme-stats)
-<!--
+
+<!-- 
 **vvbudnichenko/vvbudnichenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
