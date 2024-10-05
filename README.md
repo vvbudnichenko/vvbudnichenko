@@ -14,8 +14,8 @@
 
 #### Here is my study projects:
 ##### Lessons of:
-1. [Java Core]
-2. [SQL]
+1. [Java basics](https://github.com/vvbudnichenko/job4j_elementary)
+2. [Java Core](https://github.com/vvbudnichenko/job4j_tracker)
 ### Statistics
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vvbudnichenko&layout=compact)](https://github.com/ShamRail/github-readme-stats)
