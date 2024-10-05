@@ -14,7 +14,7 @@
 
 #### Here is my study projects:
 ##### Lessons of:
-1. [Java basics](https://github.com/vvbudnichenko/job4j_elementary)
+1. [Java SE](https://github.com/vvbudnichenko/job4j_elementary)
 2. [Java Core](https://github.com/vvbudnichenko/job4j_tracker)
 ### Statistics
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=vvbudnichenko&hide=stars,prs,issues,contribs)
