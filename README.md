@@ -1,6 +1,7 @@
 ## Hi! My name is Vlad! 💻🧠⚙️🚀💡🔧🎯🔥🌐
 - I am 36 years old, living and working in Finland.
 - I learn Java at [Job4j](https://job4j.ru/) ☕
+- I learn Python, JavaScript and Microsift Azure at Metropolia AMK [Metropolia](https://www.metropolia.fi/en/academics/open-university-courses/nonstop-virtual-studies-information-and-communication-technology)
 - I graduated with honors as an engineer from a university in Saint Petersburg.
 - I have one and a half years of experience in Java ⌚
 <!--
