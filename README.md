@@ -1,4 +1,4 @@
-## Hi! My name is Vlad! 💻🧠⚙️🚀💡🔧🎯🔥🌐 :v:
+## Hi! My name is Vladimir! 💻🧠⚙️🚀💡🔧🎯🔥🌐 :v:
 
 ### Some about me
 
